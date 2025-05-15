@@ -32,7 +32,7 @@ body {
 }
 
 .hamburger {
-  
+  display: none;
 }
 
 .container {
