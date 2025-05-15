@@ -40,7 +40,7 @@ body {
 
 @media (max-width: 768px) {
   .nav-links {
-   
+    display: none;
   }
 
   .nav-links.active {
@@ -50,6 +50,7 @@ body {
   .hamburger {
     display: block;
   }
+}
 
 .container {
     text-align: center;
