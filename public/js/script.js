@@ -3,4 +3,5 @@ function sayHello() {
 }
 
 function toggleMenu() {
+      const navLinks = document.getElementById("navLinks");
 }
