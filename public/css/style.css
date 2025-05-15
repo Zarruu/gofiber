@@ -71,7 +71,7 @@ body {
     border-radius: 8px;
   }
 
-  .nav-links.active {
+  .nav-links.show {
     display: flex;
   }
 
