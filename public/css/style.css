@@ -38,6 +38,19 @@ body {
   cursor: pointer;
 }
 
+@media (max-width: 768px) {
+  .nav-links {
+   
+  }
+
+  .nav-links.active {
+    display: flex;
+  }
+
+  .hamburger {
+    display: block;
+  }
+
 .container {
     text-align: center;
     margin-top: 50px;
