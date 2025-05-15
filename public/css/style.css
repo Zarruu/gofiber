@@ -28,4 +28,5 @@ body {
 
 .nav-links li a {
     color: white;
+    text-decoration: none;
 }
