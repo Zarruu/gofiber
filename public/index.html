@@ -29,7 +29,18 @@
   <div class="container">
     <h1>Hello dari Frontend!</h1>
     <button onclick="sayHello()">Klik Saya</button>
+    <button onclick="openModal()" class="modal-button">Tentang Kami</button>
+
   </div>
+  <div id="modal" class="modal">
+  <div class="modal-content">
+    <span class="close-btn" onclick="closeModal()">&times;</span>
+    <h2>Tentang Aplikasi</h2>
+    <p>MyGolangApp adalah aplikasi sederhana berbasis Go + Fiber dengan tampilan frontend interaktif.</p>
+  </div>
+</div>
+
+  
 
   <script src="/js/script.js"></script>
 </body>
