@@ -115,3 +115,7 @@ body {
   font-weight: bold;
   cursor: pointer;
 }
+
+.close-btn:hover {
+  color: #333;
+}
