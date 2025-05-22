@@ -130,3 +130,7 @@ body {
   border-radius: 6px;
   cursor: pointer;
 }
+
+.modal-button:hover {
+  background-color: #ddd;
+}
