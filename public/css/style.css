@@ -121,5 +121,7 @@ body {
 }
 
 .modal-button{
-  
+  background-color: #ffffff;
+  color: #4e54c8;
+  border: none;
 }
